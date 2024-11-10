@@ -21,4 +21,4 @@ cd Animation-flower
 
 ABYSS (Thế Vinh) - [nguyenthevinh30032008@gmail.com]
 
-Project Link: [https://github.com/dmquang/bmi-calculator](https://github.com/ABYSS-303/Animation-flower)
+Project Link: [https://github.com/ABYSS-303/Animation-flower](https://github.com/ABYSS-303/Animation-flower)
